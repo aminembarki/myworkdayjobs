@@ -1,0 +1,119 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_A9QdYrSVO2",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-02-27T16:07:42.038Z",
+      "createdAt": "2024-02-27T15:17:42.038Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_VxuDfUDf4T",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "wd-browser-id",
+            "value": "cdc1e616-6a14-4380-b3f9-8d2aea801a60",
+            "expires": "2024-02-27T16:07:44.636Z",
+            "domain": "trafigura.wd3.myworkdayjobs.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-02-27T15:17:44.638Z",
+            "lastAccessed": "2024-02-27T15:17:44.638Z"
+          },
+          {
+            "key": "CALYPSO_CSRF_TOKEN",
+            "value": "a048a50e-db97-482a-a4e7-48b81c90d3e3",
+            "expires": "2024-02-27T16:07:44.636Z",
+            "domain": "trafigura.wd3.myworkdayjobs.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-02-27T15:17:44.639Z",
+            "lastAccessed": "2024-02-27T15:17:44.639Z"
+          },
+          {
+            "key": "PLAY_SESSION",
+            "value": "f09dc5b17038cff16e83261023b768d71a023298-trafigura_pSessionId=o0c845n4k5qbmctfdcaft4tksl&instance=wd3prvps0006b",
+            "expires": "2024-02-27T16:07:44.636Z",
+            "domain": "trafigura.wd3.myworkdayjobs.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-02-27T15:17:44.640Z",
+            "lastAccessed": "2024-02-27T15:17:44.640Z"
+          },
+          {
+            "key": "wday_vps_cookie",
+            "value": "2150012426.56370.0000",
+            "expires": "2024-02-27T16:07:44.636Z",
+            "domain": "trafigura.wd3.myworkdayjobs.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-02-27T15:17:44.641Z",
+            "lastAccessed": "2024-02-27T15:17:44.641Z"
+          },
+          {
+            "key": "__cf_bm",
+            "value": "wJ65khM_iCBGomqOAMYTH4h37GLi94946qkDtJ4HGuQ-1709047063-1.0-Aau9gVnN6OxNG5Zd9/ZzyyNFBd3JtziRJ7BFh8bd/0DYGe+FYorHAQvptsmMHypmTwhTo8In053/X/AjfHVjo0w=",
+            "expires": "2024-02-27T15:47:43.595Z",
+            "domain": "trafigura.wd3.myworkdayjobs.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-02-27T15:17:44.641Z",
+            "lastAccessed": "2024-02-27T15:17:44.641Z"
+          },
+          {
+            "key": "__cflb",
+            "value": "02DiuJFb1a2FCfph91kR4XMuWBo9zS6fseQomaq5QYzfW",
+            "expires": "2024-02-28T14:17:43.595Z",
+            "domain": "trafigura.wd3.myworkdayjobs.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-02-27T15:17:44.642Z",
+            "lastAccessed": "2024-02-27T15:17:44.642Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-02-27T16:07:42.040Z",
+      "createdAt": "2024-02-27T15:17:42.040Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

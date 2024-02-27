@@ -1,0 +1,32 @@
+{
+	"url": "https://trafigura.wd3.myworkdayjobs.com/TrafiguraCareerSite?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+	"title": "Careers",
+	"jobs": [
+		{
+			"jobTitle": "Share Scheme Specialist",
+			"jobUrl": "https://trafigura.wd3.myworkdayjobs.com/en-US/TrafiguraCareerSite/job/Geneva-Switzerland/Share-Scheme-Specialist_R-013210?locationCountry=187134fccb084a0ea9b4b95f23890dbe"
+		},
+		{},
+		{
+			"jobTitle": "Business Developer for Africa and the Middle East",
+			"jobUrl": "https://trafigura.wd3.myworkdayjobs.com/en-US/TrafiguraCareerSite/job/Geneva-Switzerland/Business-Developer-for-Africa-and-the-Middle-East_R-013054?locationCountry=187134fccb084a0ea9b4b95f23890dbe"
+		},
+		{},
+		{
+			"jobTitle": "Circular Feedstocks Trader",
+			"jobUrl": "https://trafigura.wd3.myworkdayjobs.com/en-US/TrafiguraCareerSite/job/Geneva-Switzerland/Circular-Feedstocks-Trader_R-013023?locationCountry=187134fccb084a0ea9b4b95f23890dbe"
+		},
+		{},
+		{
+			"jobTitle": "Structured Finance Associate",
+			"jobUrl": "https://trafigura.wd3.myworkdayjobs.com/en-US/TrafiguraCareerSite/job/Geneva-Switzerland/Structured-Finance-Associate_R-012962-1?locationCountry=187134fccb084a0ea9b4b95f23890dbe"
+		},
+		{},
+		{
+			"jobTitle": "Global Industrial Safety Lead",
+			"jobUrl": "https://trafigura.wd3.myworkdayjobs.com/en-US/TrafiguraCareerSite/job/Geneva-Switzerland/Global-Industrial-Safety-Lead_R-012779?locationCountry=187134fccb084a0ea9b4b95f23890dbe"
+		},
+		{},
+		{}
+	]
+}
